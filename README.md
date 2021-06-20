@@ -1,6 +1,5 @@
 # proizv_practica
 
-# proizv_practica
 <html>
 <body>
 <h1 align = "center">ИС "Средневолжская газовая компания"</h1>

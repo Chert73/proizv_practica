@@ -1,0 +1,38 @@
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.csprojAssemblyReference.cache
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Autorization.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Properties.Resources.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.csproj.GenerateResource.cache
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\СВГК\СВГК\bin\Debug\СВГК.exe.config
+C:\Users\олег\Desktop\СВГК\СВГК\bin\Debug\СВГК.exe
+C:\Users\олег\Desktop\СВГК\СВГК\bin\Debug\СВГК.pdb
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.exe
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.pdb
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Client.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Comparison.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Estimates.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Glavnoe_menu.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Performance.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Projects.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\bin\Debug\СВГК.exe.config
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\bin\Debug\СВГК.exe
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\bin\Debug\СВГК.pdb
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.csprojAssemblyReference.cache
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Autorization.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Client.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Comparison.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Estimates.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Glavnoe_menu.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Performance.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Projects.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.Properties.Resources.resources
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.csproj.GenerateResource.cache
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.exe
+C:\Users\олег\Desktop\снова в шарагу\СВГК\СВГК\obj\Debug\СВГК.pdb
+C:\Users\олег\Desktop\СВГК\СВГК\bin\Debug\zxing.dll
+C:\Users\олег\Desktop\СВГК\СВГК\bin\Debug\zxing.presentation.dll
+C:\Users\олег\Desktop\СВГК\СВГК\bin\Debug\zxing.xml
+C:\Users\олег\Desktop\СВГК\СВГК\bin\Debug\zxing.presentation.xml
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.Barcode.resources
+C:\Users\олег\Desktop\СВГК\СВГК\obj\Debug\СВГК.csproj.CopyComplete
